@@ -1,0 +1,20 @@
+7.Category selection Criteria (11th Column to form) :
+
+Annual Income : 0 (ZERO) to 4,99,999  lacs = Select NO CATEGORY.
+
+Annual Income  : 5,00,000 to 6,99,999  lacs = Select SILVER CATEGORY.
+
+Annual Income  : 7,00,000 to 8,99,999  lacs = Select GOLD CATEGORY.
+
+Annual Income  : 9,00,000 & above lacs = Select DIAMOND CATEGORY.
+
+Note* : Annual income column decided to select category  (11th column)  column.
+
+
+User Name : 9848202205
+Password: ammulu16
+
+NzAzMj  620
+
+
+    HONDA MOTORCYCLE AND SCOOTER INDIA (P) LTD / DIOaaaaaaaaaaaaaaaaaaa
